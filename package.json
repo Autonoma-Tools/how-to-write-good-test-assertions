@@ -1,0 +1,8 @@
+{
+  "name": "how-to-write-good-test-assertions",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Code examples for the Autonoma blog post 'How to Write Good Test Assertions': side-by-side bad vs good test assertions in plain JavaScript with no runtime dependencies.",
+  "license": "MIT",
+  "dependencies": {}
+}

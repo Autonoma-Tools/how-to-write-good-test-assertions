@@ -1,9 +1,9 @@
 {
   "version": 1,
   "slug": "how-to-write-good-test-assertions",
-  "step": "created",
-  "completed_specs": [],
-  "pending_specs": ["rule1-observable-vs-implementation", "rule4-real-values-vs-mock-roundtrip"],
-  "created_at": "2026-06-03T09:40:04Z",
-  "updated_at": "2026-06-03T09:40:04Z"
+  "step": "deps_written",
+  "completed_specs": ["rule1-observable-vs-implementation", "rule4-real-values-vs-mock-roundtrip"],
+  "pending_specs": [],
+  "created_at": "2026-06-03T09:41:04Z",
+  "updated_at": "2026-06-03T09:41:04Z"
 }
